@@ -1,4 +1,4 @@
-package ru.arbuzzzikk.Model;
+package ru.arbuzzzikk.model;
 
 import lombok.Getter;
 import lombok.Setter;

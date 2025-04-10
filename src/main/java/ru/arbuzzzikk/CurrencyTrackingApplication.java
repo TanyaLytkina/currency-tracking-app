@@ -1,4 +1,4 @@
-package ru.arbuzzzikk.Service;
+package ru.arbuzzzikk;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
